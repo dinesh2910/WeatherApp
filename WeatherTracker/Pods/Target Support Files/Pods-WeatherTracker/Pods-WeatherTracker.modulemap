@@ -1,0 +1,6 @@
+framework module Pods_WeatherTracker {
+  umbrella header "Pods-WeatherTracker-umbrella.h"
+
+  export *
+  module * { export * }
+}
